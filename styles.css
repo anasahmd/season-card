@@ -20,6 +20,7 @@ body {
 .container {
   display: flex;
   width: 90vw;
+  max-width: 3000px
 }
 
 .panel {
